@@ -33,9 +33,6 @@ organization.
 
 
 <p>
-   <a href="https://twitter.com/iMVenkateshM22">
-    <img align="left" src="https://raw.githubusercontent.com/shivam-singh-au17/shivam-singh-au17/5604a09025392c73fc35b8589807b82c3b585d17/Images/twitter.svg" width="32px"  />
-  </a>
   <a href="mailto:mynamerahul@gmail.com">
     <img align="left" src="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/mail.png?raw=true" width="32px"  />
   </a>
@@ -90,13 +87,13 @@ organization.
 </p>
 
 <p align="center" >
-<img src="http://github-readme-streak-stats.herokuapp.com?user=iMRahulChoudhary&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=iMChoudharyRahul&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
 </p>
  
 <p>
 <a href="https://github.com/itsyogihr13"><span>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=itsyogihr13&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi"/>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=iMRahulChoudhary&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=iMChoudharyRahul&show_icons=true&locale=en&theme=chartreuse-dark" alt="ovi" width="400px"/>
 </span></a> </p>
 
 <br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -104,12 +101,12 @@ organization.
  <br/>
 <p align="center">
 <a href="https://github.com/itsyogihr13"><span>
-<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iMRahulChoudhary&theme=dracula" />
+<img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iMChoudharyRahul&theme=dracula" />
 </span></a> </p>
 
  <br/>
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iMRahulChoudhary&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=iMChoudharyRahul&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true) 
 
 
 <hr clear="both">
